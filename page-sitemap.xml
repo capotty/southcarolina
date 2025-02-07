@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/summerville/</loc>
-		<lastmod>2025-02-06T02:41:27+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/goose-creek/</loc>
-		<lastmod>2025-02-06T02:41:27+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mount-pleasant/</loc>
-		<lastmod>2025-02-06T02:41:26+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rock-hill/</loc>
-		<lastmod>2025-02-06T02:41:26+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/summerville/</loc>
+		<lastmod>2025-02-07T01:09:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/north-charleston/</loc>
-		<lastmod>2025-02-06T02:41:25+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/greenville/</loc>
-		<lastmod>2025-02-06T02:41:25+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/spartanburg/</loc>
-		<lastmod>2025-02-06T02:41:25+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:11+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/columbia/</loc>
-		<lastmod>2025-02-06T02:41:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/sumter/</loc>
-		<lastmod>2025-02-06T02:41:24+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/beaufort/</loc>
-		<lastmod>2025-02-06T02:41:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/greenwood/</loc>
-		<lastmod>2025-02-06T02:41:23+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mauldin/</loc>
-		<lastmod>2025-02-06T02:41:23+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lancaster/</loc>
-		<lastmod>2025-02-06T02:41:23+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/sumter/</loc>
+		<lastmod>2025-02-07T01:09:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/greenwood/</loc>
+		<lastmod>2025-02-07T01:09:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/greer/</loc>
-		<lastmod>2025-02-06T02:41:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/aiken/</loc>
-		<lastmod>2025-02-06T02:41:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/anderson/</loc>
-		<lastmod>2025-02-06T02:41:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/florence-2/</loc>
-		<lastmod>2025-02-06T02:41:21+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/myrtle-beach/</loc>
-		<lastmod>2025-02-06T02:41:21+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:07+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/charleston/</loc>
-		<lastmod>2025-02-06T02:41:20+00:00</lastmod>
+		<loc>/aiken/</loc>
+		<lastmod>2025-02-07T01:09:07+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hilton-head-island/</loc>
-		<lastmod>2025-02-06T02:41:20+00:00</lastmod>
+		<lastmod>2025-02-07T01:09:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/anderson/</loc>
+		<lastmod>2025-02-07T01:09:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/florence-2/</loc>
+		<lastmod>2025-02-07T01:09:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/charleston/</loc>
+		<lastmod>2025-02-07T01:09:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
